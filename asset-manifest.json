@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/alizoubair.github.io/static/css/main.ea4c9812.css",
-    "main.js": "/alizoubair.github.io/static/js/main.09428c42.js",
-    "index.html": "/alizoubair.github.io/index.html",
-    "main.ea4c9812.css.map": "/alizoubair.github.io/static/css/main.ea4c9812.css.map",
-    "main.09428c42.js.map": "/alizoubair.github.io/static/js/main.09428c42.js.map"
+    "main.css": "/static/css/main.ea4c9812.css",
+    "main.js": "/static/js/main.09428c42.js",
+    "index.html": "/index.html",
+    "main.ea4c9812.css.map": "/static/css/main.ea4c9812.css.map",
+    "main.09428c42.js.map": "/static/js/main.09428c42.js.map"
   },
   "entrypoints": [
     "static/css/main.ea4c9812.css",
